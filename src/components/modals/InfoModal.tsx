@@ -91,7 +91,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           target="_blank"
         >
           @CarsonKompon
-        </a>{' '}
+        </a>{' '}Maintained by Snoozy Kazoo LLC.
       </p>
     </BaseModal>
   )
